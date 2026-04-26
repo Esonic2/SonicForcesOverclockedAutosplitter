@@ -129,7 +129,7 @@ start
 
 gameTime
 {
-   if (current.State == vars.STATE_STAGECLEAR && current.LevelID == "w2a02" && current.IGT == TimeSpan.Zero)
+   if (current.State == vars.STATE_STAGECLEAR && current.IGT == TimeSpan.Zero)
    {
        return vars.AccumulatedIGT;
    }

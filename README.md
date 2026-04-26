@@ -1,12 +1,9 @@
-<h1> <img "![forcesoverclocked](https://github.com/user-attachments/assets/0bc4baef-dea8-4dc6-a51b-474e7885fe78)" 
+A version of Jujstme's Sonic Forces autosplitter with bugfixes and settings specifically for Sonic Forces Overclocked.
 
-Autosplitter for Sonic Forces Overclocked
 
-No Episode Metal support at the moment
 
-Code by Jujstme, i only edited it to work better with Overclocked
+<h1> <img src="https://github.com/Esonic2/SonicForcesOverclockedAutosplitter/blob/885e35f220332dd1f56aa5a2fab68c62fd1ecebe/settings.png"> 
 
-If it does not work try checking back later, this is still being worked on
 
 
 
